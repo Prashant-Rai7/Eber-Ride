@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+//hello
 const registration_data = new mongoose.Schema({
   adminName: {
     type: String,
